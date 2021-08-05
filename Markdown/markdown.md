@@ -250,7 +250,7 @@ Resultado com alinhamento à direita:
 | -: | -: |
 | Lucas Pires| 25 |
 
-Resultado com alinhamento à direita:
+Resultado com alinhamento centralizado:
 
 | Nome | Idade |
 | :-: | :-: |
