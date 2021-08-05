@@ -313,13 +313,13 @@ Resultado:
 
 Além disso também é possível referenciar ou item dentro do seu texto usando apenas #.
 
-Também é possível utilizar emojis, como esse :smile.  
+Também é possível utilizar emojis, como esse :smile:  
 
 ```
-:smile
+:smile:
 ```
 
-Para usar os emojis basta colocar ```:``` e o nome do emoji.
+Para usar os emojis basta colocar ```:``` antes e depois do nome do emoji.
 
 
 Para ver a lista com os emojis acesse esse link [aqui](https://www.webfx.com/tools/emoji-cheat-sheet/)
